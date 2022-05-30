@@ -4,6 +4,7 @@ DESC = FFmpeg codec library
 HEADERS = avcodec.h                                                     \
           avdct.h                                                       \
           avfft.h                                                       \
+		  bsf.h                                                         \
           d3d11va.h                                                     \
           dirac.h                                                       \
           dv_profile.h                                                  \
